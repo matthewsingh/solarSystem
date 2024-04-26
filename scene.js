@@ -1,5 +1,5 @@
-
-import { OrbitControls } from "https://cdn.skypack.dev/three@0.129.0/examples/jsm/controls/OrbitControls.js";
+import { OrbitControls } from "https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.9/dat.gui.js";
+//import { OrbitControls } from "https://cdn.skypack.dev/three@0.129.0/examples/jsm/controls/OrbitControls.js";
 import { GUI } from './node_modules/dat.gui/build/dat.gui.module.js';
 
 
